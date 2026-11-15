@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "AI STUDIO",
+    "slug": "ai-studio-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#07050C",
+    "android": {
+      "package": "com.aistudio.platform",
+      "adaptiveIcon": {
+        "backgroundColor": "#0E0A18"
+      },
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "RECORD_AUDIO"
+      ]
+    },
+    "plugins": [
+      "expo-av",
+      "expo-image-picker"
+    ]
+  }
+}

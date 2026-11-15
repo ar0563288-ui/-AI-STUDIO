@@ -1,0 +1,6 @@
+{
+  "name": "AI STUDIO",
+  "description": "Unified multimodal AI creation platform for AI chat, image generation and editing, 60s+ stitched video production, original music synthesis, voice generation, automatic captions, and social media workflows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
